@@ -6,10 +6,12 @@
     ## $ ionic plugin add (plugin directory) --variable ALIPAY_APPID=$(aliAPPID)  --variable ALIPAY_TEST=$(00 生产 01 测试)
 
 ##插件删除
+
     ## $ cordova plugin rm cordova-plugin-alipay
     ## $ ionic plugin rm cordova-plugin-alipay
 
 #插件调用
+
     ##在TyptScript中定义对象
     ## declare let cordova: any;
 
