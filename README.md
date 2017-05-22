@@ -2,8 +2,8 @@
  
 ##插件安装    android 支持沙箱测试  ios不支持沙箱测试
 
-    ## $ cordova plugin add (plugin directory) --variable ALIPAY_APPID=$(aliAPPID)  --variable ALIPAY_TEST=$(00 生产 01 测试)
-    ## $ ionic plugin add (plugin directory) --variable ALIPAY_APPID=$(aliAPPID)  --variable ALIPAY_TEST=$(00 生产 01 测试)
+    ## $ cordova plugin add https://github.com/woguava/cordova-plugin-alipay.git --variable ALIPAY_APPID=$(aliAPPID)  --variable ALIPAY_TEST=$(00 生产 01 测试)
+    ## $ ionic plugin add https://github.com/woguava/cordova-plugin-alipay.git --variable ALIPAY_APPID=$(aliAPPID)  --variable ALIPAY_TEST=$(00 生产 01 测试)
 
 ##插件删除
 
