@@ -1,0 +1,20 @@
+{
+  "name": "cordova-plugin-alipay",
+  "version": "1.0.0",
+  "description": "支付宝cordova支付插件",
+  "repo": "https://github.com/woguava/cordova-plugin-alipay",
+  "cordova": {
+    "id": "cordova-plugin-alipay",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "alipay",
+    "payment"
+  ],
+  "author": "openunion.cn",
+  "license": "MIT license"
+}
